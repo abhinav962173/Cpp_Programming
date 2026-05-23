@@ -1,5 +1,6 @@
 <div align="center">
 
+<<<<<<< HEAD
 # 📘 Day 09 — Arrays in C++
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -8,11 +9,23 @@
 ![Author](https://img.shields.io/badge/Author-Abhinav-green?style=for-the-badge)
 
 > **60 Days of C++ Challenge** — Arrays are the foundation of every data structure. Master arrays, and DSA becomes 10x easier.
+=======
+# 🧠 DSA in C++
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Days](https://img.shields.io/badge/Days_Completed-2-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-abhinav962173-black?style=for-the-badge&logo=github)
+
+**A structured day-by-day grind to master Data Structures & Algorithms using C++.**  
+*One day. One topic. One step closer.*
+>>>>>>> 09d9b0e5e2a0940b0928adc6b730b9cb9c267faf
 
 </div>
 
 ---
 
+<<<<<<< HEAD
 ## 🧠 What I Learned Today
 
 Until now, storing 10 numbers meant creating 10 separate variables. An **array** lets you store multiple values of the **same type** in one contiguous block of memory — all under one name, accessed by index.
@@ -113,10 +126,39 @@ int main() {
 
     return 0;
 }
+=======
+## 📌 About This Repo
+
+This repository documents my **daily DSA practice in C++**.  
+Every folder = one day of learning. Every file = one concept practiced.  
+No shortcuts. Just consistent effort. 💪
+
+---
+
+## 📁 Repository Structure
+
+```
+DSA-in-Cpp/
+│
+├── 📂 Day-01-variable_and_data_types/
+│   ├── variables_basics.cpp
+│   ├── data_types.cpp
+│   ├── input_output.cpp
+│   └── ...
+│
+├── 📂 Day-02-operators/
+│   ├── arithmetic_operators.cpp
+│   ├── relational_operators.cpp
+│   ├── type_casting.cpp
+│   └── ...
+│
+└── README.md
+>>>>>>> 09d9b0e5e2a0940b0928adc6b730b9cb9c267faf
 ```
 
 ---
 
+<<<<<<< HEAD
 ### 3️⃣ Find Largest & Smallest
 
 ```cpp
@@ -589,13 +631,59 @@ output.exe
 - Write binary search **recursively**
 - Find **second largest** in single pass O(n)
 - Check if array is a **palindrome** using two pointers
+=======
+## 📅 Progress Tracker
+
+| # | Topic | Status | Folder |
+|---|-------|--------|--------|
+| 01 | Variables & Data Types | ✅ Completed | [Day-01](./Day-01-variable_and_data_types) |
+| 02 | Operators & Type Casting | ✅ Completed | [Day-02](./Day-02-operators) |
+| 03 | Conditionals & Loops | 🔜 Coming Soon | — |
+| 04 | Functions | 🔜 Coming Soon | — |
+| 05 | Arrays & Strings | 🔜 Coming Soon | — |
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Details |
+|------|---------|
+| **Language** | C++ (C++17) |
+| **IDE** | VS Code |
+| **Compiler** | GCC / G++ |
+| **OS** | Windows |
+
+---
+
+## 🎯 Goal
+
+> Master DSA from scratch using C++ — one topic per day, every day.  
+> This repo is my public commitment to consistency.
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+**Abhinav**  
+[![GitHub](https://img.shields.io/badge/GitHub-abhinav962173-black?style=flat-square&logo=github)](https://github.com/abhinav962173)
+
+*"Consistency beats talent when talent doesn't show up."*
+
+</div>
+>>>>>>> 09d9b0e5e2a0940b0928adc6b730b9cb9c267faf
 
 ---
 
 <div align="center">
 
+<<<<<<< HEAD
 **Author:** Abhinav &nbsp;|&nbsp; **Tool:** VS Code &nbsp;|&nbsp; **Language:** C++17
 
 🔥 **Day 9 / 60 Complete**
+=======
+⭐ **Star this repo if it motivates you!** ⭐
+>>>>>>> 09d9b0e5e2a0940b0928adc6b730b9cb9c267faf
 
 </div>
